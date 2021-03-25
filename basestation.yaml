@@ -43,4 +43,5 @@ Comms:
 # Paramètres reliés aux éléments de l'interface
 Frontend:
 
+  # Modifie la grosseur des graphiques
   PlotScale: 0.6
